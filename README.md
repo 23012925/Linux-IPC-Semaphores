@@ -20,8 +20,9 @@ Execute the C Program for the desired output.
 
 # PROGRAM:
 
-### Developed by : JANARTHANAN K
-### Register Number : 212223040072
+### Developed By: JANARTHANAN K
+### Register No.: 212223040072
+### Date: 30/09/2024
 
 ## Write a C program that implements a producer-consumer system with two processes using Semaphores.
 ~~~
